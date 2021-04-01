@@ -11,7 +11,7 @@
 |1주차|인공지능 개요|||
 |2주차|데이터전처리|[2주차 정리](https://www.notion.so/d3a8a0fd6ecb47eb9266f5beab3ab68b)||
 |3주차|KNN|[3주차 정리](https://www.notion.so/KNN-30f56943a7044c51964e30e091abf1da)|[강의내용_실습](https://github.com/Sejong-Kaggle-Study-3rd/Roh_HyoJu/blob/main/Lab/3%EC%A3%BC%EC%B0%A8%20KNN_%EC%8B%A4%EC%8A%B5.ipynb)<br/>[diabets KNN-classification_실습](https://github.com/Sejong-Kaggle-Study-3rd/Roh_HyoJu/blob/main/Lab/3%EC%A3%BC%EC%B0%A8%20KNN_diabets%20classfication.ipynb)|
-|4주차|로지스틱회귀분류|||
+|4주차|로지스틱회귀분류|[4주차 정리](https://www.notion.so/898d567be47043d8a8642901c79fd58d)||
 |5주차|판별분석|||
 |6주차|의사결정나무|||
 |7주차|SVM|||
