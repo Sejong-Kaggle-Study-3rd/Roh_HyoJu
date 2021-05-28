@@ -18,7 +18,7 @@
 |8주차|군집화|[8주차 정리](https://www.notion.so/5879d3c0a97846949230c745b12f667c)||
 |9주차|차원축소|[9주차 정리]||
 |10주차|교차검증|[10주차 정리](https://www.notion.so/914753c49f8c41a3beec0fc3e0df376a)||
-|11주차|선형회귀|||
+|11주차|선형회귀|[11주차 정리](https://github.com/Sejong-Kaggle-Study-3rd/Roh_HyoJu/blob/main/Note/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80.pdf)||
 |12주차|선형분류|||
 |13주차,14주차|neural network|||
 |15주차|CNN|||
